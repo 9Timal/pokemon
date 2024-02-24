@@ -1,8 +1,7 @@
 import { Routes } from '@angular/router';
-import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { DetailPokemonComponent } from './detail-pokemon/detail-pokemon.component';
 import { ListPokemonComponent } from './list-pokemon/list-pokemon.component';
-
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 
 
 
